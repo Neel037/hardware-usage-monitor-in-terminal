@@ -1,5 +1,5 @@
 # hardware-usage-monitor-in-terminal
-Python psutil can directly interact with OS and can obtain information from OS.
+Python **psutil** library can directly interact with OS and can obtain information from OS.
 We have 2 parts of this project.
 1. Static Part
    It shows the System Information like User, CPU Info, Core Info, RAM, Network Info and Disk info.
