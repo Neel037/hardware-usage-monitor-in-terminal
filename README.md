@@ -5,6 +5,7 @@ We have 2 parts of this project.
    It shows the System Information like User, CPU Info, Core Info, RAM, Network Info and Disk info.
 2. Dynamic Part
    This portion shows the live usage of CPU and RAM. We used BARs and DASHes to represent the percentage of the usage.
+    
 ##Codes
 ![image](https://github.com/Neel037/hardware-usage-monitor-in-terminal/assets/59342992/6b673fa9-3fce-46ff-9c2f-d60af31efc8a)
 ##Output
